@@ -7,7 +7,10 @@
  */
  
 void setup() {
-
+String teacher1="Mr.Herrea";
+String teacher2="Mr.Killps";
+String teacher3="Mr.Pineda";
+String teacher4="Miss.Lawrence";
   
   
   
