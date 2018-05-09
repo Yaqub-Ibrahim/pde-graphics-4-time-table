@@ -7,6 +7,9 @@
  */
  
 void setup() {
+  
+size(700, 500);
+
 String teacher1="Mr.Herrea";
 String teacher2="Mr.Killps";
 String teacher3="Mr.Pineda";
@@ -24,5 +27,13 @@ String course4="Language Arts";
 }
 
 void draw() {
+  
+background(255, 255, 255);
+for (int x=0; x<2; x++) {
+  for (int y=0; y<7; y++) {
+    rect(105*x, 55*y, 200, 75);
+  }
+  
 
+}
 }
