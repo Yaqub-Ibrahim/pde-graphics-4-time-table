@@ -50,5 +50,14 @@ text(course3, 220, 180);
 text(teacher4, 220, 240);
 text(course4, 220, 255);
 
+textSize(30);
+text("Block 1", 40, 50);
+
+text("Block 2", 40, 120);
+
+text("Block 3", 40, 195);
+
+text("Block 4", 40, 270);
+
 }
 }
